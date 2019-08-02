@@ -1,5 +1,5 @@
-id=20004
-Broken Silo
+id=10917
+Silo #empty
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,9 +29,17 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=2
-spriteID=1185
-pos=0.000000,0.000000
+numSprites=3
+spriteID=20002
+pos=-4.000000,51.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=20000
+pos=21.000000,-31.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,7 +47,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=20003
-pos=-43.000000,-11.000000
+pos=-2.000000,139.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -50,7 +58,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=0,0.000000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=30
+pixHeight=155
