@@ -47,7 +47,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=782
-pos=0.000000,-5.000000
+pos=22.000000,-37.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -55,7 +55,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=1156
-pos=2.000000,-8.000000
+pos=24.000000,-40.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -69,4 +69,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=12
+pixHeight=0
