@@ -1,5 +1,5 @@
 id=10763
-Osage Orange Tree#Branch
+Osage Orange Tree#Branch no fruit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -58,7 +58,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=1,1.000000
+numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=349
