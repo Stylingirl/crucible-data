@@ -1,4 +1,5 @@
 id=20003
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 Bow and Arrow#Hickory
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
@@ -8,6 +9,17 @@ sideAccess=0
 heldInHand=1
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
+=======
+Wrought Iron on Flat Rock with Chisel
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
+permanent=1,minPickupAge=3
+noFlip=0
+sideAccess=0
+heldInHand=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+mapChance=0.000000#biomes_3
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0
@@ -18,6 +30,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 heldOffset=-3.000000,-4.000000
 clothing=n
 clothingOffset=0.000000,0.000000
@@ -25,33 +38,59 @@ deadlyDistance=3
 useDistance=5
 sounds=191:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
+=======
+heldOffset=15.000000,20.000000
+clothing=n
+clothingOffset=-27.000000,72.000000
+deadlyDistance=0
+useDistance=1
+sounds=678:0.250000,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 numSprites=7
 spriteID=418
 pos=2.000000,-20.000000
+=======
+numSprites=4
+spriteID=547
+pos=5.000000,-36.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 spriteID=403
 pos=14.000000,-32.000000
+=======
+spriteID=556
+pos=2.000000,-28.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 spriteID=415
 pos=-19.000000,-35.000000
+=======
+spriteID=782
+pos=0.000000,-10.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=416
@@ -69,22 +108,21 @@ hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=1
+=======
+parent=-1
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=414
-pos=-15.000000,-29.000000
+spriteID=1156
+pos=2.000000,-13.000000
 rot=0.000000
-hFlip=1
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=1
-invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=413
-pos=-15.000000,-37.000000
-rot=0.500000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 parent=1
+=======
+parent=2
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt
 invisHolding=0,invisWorn=0,behindSlots=0
 headIndex=-1
 bodyIndex=-1
@@ -93,4 +131,8 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
+<<<<<<< HEAD:objects/20003.txt~ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
 pixHeight=0
+=======
+pixHeight=7
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/20003.txt

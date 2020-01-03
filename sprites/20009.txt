@@ -1,1 +1,1 @@
-bubinga_1 0 0 0
+hotPan 0 -11 3
