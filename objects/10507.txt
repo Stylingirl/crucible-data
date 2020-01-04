@@ -29,25 +29,69 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=3
-spriteID=10530
-pos=31.000000,74.000000
+<<<<<<< HEAD
+numSprites=5
+spriteID=395
+pos=32.000000,64.000000
 rot=0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=682
-pos=4.000000,322.000000
+<<<<<<< HEAD
+spriteID=20011
+pos=31.000000,74.000000
+rot=0.250000
+=======
+spriteID=705
+pos=3.000000,284.000000
 rot=0.000000
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+numSprites=3
+spriteID=10530
+pos=31.000000,74.000000
+rot=0.250000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+<<<<<<< HEAD
+<<<<<<< HEAD
+spriteID=682
+pos=4.000000,322.000000
+=======
+spriteID=706
+pos=0.000000,166.000000
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+spriteID=682
+pos=4.000000,322.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=10532
 pos=-17.000000,184.000000
+<<<<<<< HEAD
+=======
+parent=1
+invisHolding=0,invisWorn=0,behindSlots=0
+spriteID=707
+pos=-1.000000,47.000000
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -61,4 +105,12 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
+<<<<<<< HEAD
+<<<<<<< HEAD
 pixHeight=385
+=======
+pixHeight=303
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+pixHeight=385
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4

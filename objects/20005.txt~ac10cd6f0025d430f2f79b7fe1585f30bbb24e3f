@@ -1,7 +1,7 @@
-id=20002
-Wrought Iron Cone
-containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+id=20005
+Hickory Bow#just shot
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,20 +18,20 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=0.000000,0.000000
-clothing=h
-clothingOffset=2.000001,71.000004
+heldOffset=-3.000000,-4.000000
+clothing=n
+clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=650:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=1
-spriteID=10553
-pos=-5.000000,-30.000000
+spriteID=418
+pos=2.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

@@ -1,4 +1,9 @@
+<<<<<<< HEAD:objects/20006.txt
+id=20006
+<<<<<<< HEAD
+=======
 id=10920
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 Ancient Silo
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
@@ -7,6 +12,19 @@ noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+<<<<<<< HEAD:objects/20006.txt
+=======
+Hickory Branch
+containable=1
+containSize=2.000000,vertSlotRot=0.250000
+permanent=0,minPickupAge=3
+noFlip=0
+sideAccess=0
+heldInHand=1
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -18,17 +36,44 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+<<<<<<< HEAD:objects/20006.txt
+<<<<<<< HEAD
 heldOffset=0.000000,0.000000
+=======
+heldOffset=18.000000,0.000000
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+heldOffset=0.000000,0.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
+<<<<<<< HEAD:objects/20006.txt
+<<<<<<< HEAD
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+=======
+sounds=50:0.250000,-1:0.0,-1:0.0,-1:0.0
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
+<<<<<<< HEAD:objects/20006.txt
+<<<<<<< HEAD
+numSprites=23
+spriteID=20002
+pos=-4.000000,51.000000
+=======
+numSprites=1
+spriteID=395
+pos=-2.000000,-30.000000
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
 numSprites=24
 spriteID=512
 pos=9.000000,11.999999
@@ -40,12 +85,17 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 spriteID=10552
 pos=-4.000000,51.000000
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+<<<<<<< HEAD:objects/20006.txt
+<<<<<<< HEAD
+=======
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 spriteID=512
 pos=17.000000,-37.000000
 rot=0.000000
@@ -222,11 +272,30 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
+<<<<<<< HEAD:objects/20006.txt
+=======
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
+<<<<<<< HEAD:objects/20006.txt
+<<<<<<< HEAD
+numUses=10,1.000000
+useVanishIndex=1,2,3,4,5,6,7,8,9,10,11
+useAppearIndex=-1
+pixHeight=155
+=======
+numUses=1,1.000000
+useVanishIndex=-1
+useAppearIndex=-1
+pixHeight=0
+>>>>>>> ac10cd6f0025d430f2f79b7fe1585f30bbb24e3f
+=======
 numUses=10,1.000000
 useVanishIndex=0,2,3,4,5,6,7,8,9,10,11,12
 useAppearIndex=-1
 pixHeight=155
+>>>>>>> a9f1062e28eb5fb168d759cc5b978ef5ca0f66d4:objects/10920.txt
