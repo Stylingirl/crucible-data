@@ -1,5 +1,5 @@
 id=21033
-Wrought Iron Cone on Flat Rock with Chisel#
+Wrought Iron Cone on Flat Rock with Chisel# just made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

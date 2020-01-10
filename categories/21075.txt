@@ -1,0 +1,8 @@
+parentID=21075
+pattern
+numObjects=5
+10380
+10705
+10378
+10508
+512
