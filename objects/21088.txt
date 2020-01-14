@@ -1,5 +1,5 @@
-id=21087
-Bowl with Raw Rubber Balls
+id=21088
+Bowl with Raw Rubber Stoppers
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -38,24 +38,24 @@ color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2100
-pos=-10.000000,-24.000000
+spriteID=3034
+pos=-10.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2100
-pos=8.000000,-24.000000
+spriteID=3034
+pos=8.000000,-21.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-spriteID=2100
-pos=0.000000,-26.000000
+spriteID=3034
+pos=-1.000000,-23.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
